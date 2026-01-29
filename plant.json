@@ -1,1 +1,163 @@
 
+[
+  {
+    "plantId": "1",
+    "name": "Sunflower",
+    "description": "Tall, cheerful flower that follows the sun. Great for gardens and cut bouquets.",
+    "growZoneNumber": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1596838759404-2d78b9e5c3a5?auto=format&fit=crop&w=600",
+    "wateringInterval": 3
+  },
+  {
+    "plantId": "2",
+    "name": "Rose",
+    "description": "Classic flowering shrub known for its beauty and fragrance. Many varieties available.",
+    "growZoneNumber": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1527999195423-6f3b87a1b2a5?auto=format&fit=crop&w=600",
+    "wateringInterval": 2
+  },
+  {
+    "plantId": "3",
+    "name": "Lavender",
+    "description": "Aromatic herb with purple flowers. Drought-tolerant and attracts pollinators.",
+    "growZoneNumber": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1519735152262-81a7f5c2b5a7?auto=format&fit=crop&w=600",
+    "wateringInterval": 5
+  },
+  {
+    "plantId": "4",
+    "name": "Basil",
+    "description": "Popular culinary herb with sweet, aromatic leaves. Prefers warm weather.",
+    "growZoneNumber": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1606787620819-8bdf064d3b74?auto=format&fit=crop&w=600",
+    "wateringInterval": 2
+  },
+  {
+    "plantId": "5",
+    "name": "Cactus",
+    "description": "Low-maintenance desert plant that stores water in its stems. Perfect for beginners.",
+    "growZoneNumber": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdb7fa80e51f?auto=format&fit=crop&w=600",
+    "wateringInterval": 14
+  },
+  {
+    "plantId": "6",
+    "name": "Orchid",
+    "description": "Exotic flowering plant with delicate blooms. Requires indirect light and humidity.",
+    "growZoneNumber": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1588345958254-dfe3e5a5f7a4?auto=format&fit=crop&w=600",
+    "wateringInterval": 7
+  },
+  {
+    "plantId": "7",
+    "name": "Mint",
+    "description": "Fast-growing herb with refreshing flavor. Great for teas and garnishes.",
+    "growZoneNumber": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1600271470014-8de36d5f4a0a?auto=format&fit=crop&w=600",
+    "wateringInterval": 2
+  },
+  {
+    "plantId": "8",
+    "name": "Tulip",
+    "description": "Spring-blooming bulb with vibrant cup-shaped flowers. Plant in fall for spring color.",
+    "growZoneNumber": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1588345958254-dfe3e5a5f7a4?auto=format&fit=crop&w=600",
+    "wateringInterval": 4
+  },
+  {
+    "plantId": "9",
+    "name": "Fern",
+    "description": "Lush green foliage plant that thrives in shady, moist environments.",
+    "growZoneNumber": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1603523983801-6b9e3a7e8b8a?auto=format&fit=crop&w=600",
+    "wateringInterval": 3
+  },
+  {
+    "plantId": "10",
+    "name": "Aloe Vera",
+    "description": "Succulent with healing gel inside its leaves. Very drought-tolerant.",
+    "growZoneNumber": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdb7fa80e51f?auto=format&fit=crop&w=600",
+    "wateringInterval": 10
+  },
+  {
+    "plantId": "11",
+    "name": "Daisy",
+    "description": "Simple, cheerful flower with white petals and yellow centers. Easy to grow.",
+    "growZoneNumber": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1588345958254-dfe3e5a5f7a4?auto=format&fit=crop&w=600",
+    "wateringInterval": 3
+  },
+  {
+    "plantId": "12",
+    "name": "Pothos",
+    "description": "Popular houseplant with trailing vines. Tolerates low light and irregular watering.",
+    "growZoneNumber": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1603523983801-6b9e3a7e8b8a?auto=format&fit=crop&w=600",
+    "wateringInterval": 6
+  },
+  {
+    "plantId": "13",
+    "name": "Cherry Blossom",
+    "description": "Iconic flowering tree known for its stunning spring blooms.",
+    "growZoneNumber": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=600",
+    "wateringInterval": 5
+  },
+  {
+    "plantId": "14",
+    "name": "Succulent Mix",
+    "description": "Assortment of small, colorful succulents. Ideal for desktops and gifts.",
+    "growZoneNumber": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdb7fa80e51f?auto=format&fit=crop&w=600",
+    "wateringInterval": 8
+  },
+  {
+    "plantId": "15",
+    "name": "Peony",
+    "description": "Luxurious flowering perennial with large, fragrant blooms in late spring.",
+    "growZoneNumber": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1588345958254-dfe3e5a5f7a4?auto=format&fit=crop&w=600",
+    "wateringInterval": 4
+  },
+  {
+    "plantId": "16",
+    "name": "Snake Plant",
+    "description": "Hardy indoor plant that purifies air and survives neglect.",
+    "growZoneNumber": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1603523983801-6b9e3a7e8b8a?auto=format&fit=crop&w=600",
+    "wateringInterval": 14
+  },
+  {
+    "plantId": "17",
+    "name": "Hydrangea",
+    "description": "Shrub with large flower clusters that change color based on soil pH.",
+    "growZoneNumber": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1588345958254-dfe3e5a5f7a4?auto=format&fit=crop&w=600",
+    "wateringInterval": 3
+  },
+  {
+    "plantId": "18",
+    "name": "Thyme",
+    "description": "Low-growing aromatic herb used in cooking and ground cover.",
+    "growZoneNumber": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1600271470014-8de36d5f4a0a?auto=format&fit=crop&w=600",
+    "wateringInterval": 4
+  },
+  {
+    "plantId": "19",
+    "name": "Monstera",
+    "description": "Tropical houseplant with dramatic split leaves. Loves humidity and bright light.",
+    "growZoneNumber": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1603523983801-6b9e3a7e8b8a?auto=format&fit=crop&w=600",
+    "wateringInterval": 7
+  },
+  {
+    "plantId": "20",
+    "name": "Zinnia",
+    "description": "Bright, long-blooming annual perfect for cutting gardens and attracting butterflies.",
+    "growZoneNumber": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1596838759404-2d78b9e5c3a5?auto=format&fit=crop&w=600",
+    "wateringInterval": 3
+  }
+]
